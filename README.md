@@ -1,2 +1,2 @@
 # MagicEightBall
-iOS swift Magic Eight Ball
+iOS swift Magic Eight Ball Practice
